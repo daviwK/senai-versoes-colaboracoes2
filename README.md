@@ -2,3 +2,5 @@
 Treinamento 2
 
 senai-versoes-colaboracoes
+
+lembrei do comando: git commit
